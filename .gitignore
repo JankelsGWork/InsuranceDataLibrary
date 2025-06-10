@@ -1,0 +1,74 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code workspace settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# Auto-generated files
+*.Generated.cs
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+# Uncomment if you have a packages folder in your solution
+# **/packages/*
+
+# Dotnet tool restore
+.dotnet_tool/
+
+# Logs
+*.log
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
+*.publish.xml
+
+# Temporary files
+~$*
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Local history for Visual Studio
+.localhistory/
+
+# Backup & cache files
+*.bak
+*.cache
+
+# MSTest settings
+*.vsmdi
+
+# Visual Studio 2022 workspace
+.vs/
+
+# Global JetBrains Rider settings
+.idea/
+
+# Others
+*.dbmdl
+*.pdb
