@@ -1,6 +1,6 @@
-﻿using InsuranceDataLibrary.DOM;
+﻿using InsuranceDataHelper.DOM;
 
-namespace InsuranceDataLibrary.Services
+namespace InsuranceDataHelper.Services
 {   
     public class FullReportGenerator : IInsuranceDataProcessor
     {

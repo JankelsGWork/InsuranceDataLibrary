@@ -1,4 +1,4 @@
-﻿namespace InsuranceDataLibrary.DOM
+﻿namespace InsuranceDataHelper.DOM
 {
     public class InsuranceOption
     {
