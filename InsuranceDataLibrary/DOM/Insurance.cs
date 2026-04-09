@@ -1,4 +1,4 @@
-﻿namespace InsuranceDataLibrary.DOM
+﻿namespace InsuranceDataHelper.DOM
 {
     public class Insurance(IEnumerable<string> addons, IEnumerable<string> coverages)
     {
